@@ -1,7 +1,7 @@
 # WhenApp Android
 
 ### This project was made by [Shaked Cohen](https://github.com/shakedc1599), [Noam Cohen](https://github.com/NoamCohen48) and [Roi Avraham](https://github.com/Roi-Avraham). :smiley:
-We have created an app "inspired" by WhatsApp for multi platform communication.
+We have created an app inspired by WhatsApp for multi platform communication.
 
 ## Preview
 <img src="https://user-images.githubusercontent.com/47411973/174489826-a74a391e-1f76-49de-a27a-4a14277b2d0b.png" width="300">
