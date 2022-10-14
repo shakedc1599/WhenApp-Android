@@ -29,7 +29,7 @@ this site was created by noam cohen, shaked cohen and roi avraham.
 
 for this project you need to clone 2 repos:
 1. [android app](https://github.com/shakedc1599/WhenApp-Android)
-2. [Server (ASP WebAPI)](https://github.com/shakedc1599/WhenApp-Server)
+2. [Server (ASP WebAPI)](https://github.com/shakedc1599/WhenApp-Server1)
 
 for running the android client:
 
