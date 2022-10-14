@@ -28,8 +28,8 @@ this site was created by noam cohen, shaked cohen and roi avraham.
 ## How To Run
 
 for this project you need to clone 3 repos:
-1. [android app] (https://github.com/NoamCohen48/WhenAppAndroid2)
-2. [Server (ASP WebAPI)] (https://github.com/Roi-Avraham/whenAppServer)
+1. [android app](https://github.com/shakedc1599/WhenApp-Android)
+2. [Server (ASP WebAPI)](https://github.com/shakedc1599/WhenApp-Server)
 
 for running the android client:
 
