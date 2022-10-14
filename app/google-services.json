@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819210897920",
+    "project_id": "whenapp-33bad",
+    "storage_bucket": "whenapp-33bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819210897920:android:d8c3edf95bc254b05326e5",
+        "android_client_info": {
+          "package_name": "com.example.whenappandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819210897920-0fuf2nq48ebkjvhra62gomskii0otmfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp7V2cs_065LkIFKNuraDoUAWdJKEK3Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819210897920-0fuf2nq48ebkjvhra62gomskii0otmfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

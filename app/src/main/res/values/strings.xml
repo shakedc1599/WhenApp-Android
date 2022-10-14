@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TheAppOfTheKings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_etUsername">Username</string>
+    <string name="login_etPassword">Password</string>
+    <string name="login_bt">Login</string>
+    <string name="register_etUsername">Username</string>
+    <string name="register_etUserNickname">Nick name</string>
+    <string name="register_etPassword">Password</string>
+    <string name="register_etConfirmPassword">Confirm password</string>
+    <string name="register_bt">Register</string>
+    <string name="uploadImage">Upload</string>
+    <string name="upload_id_prof_pic">Upload id prof pic</string>
+    <string name="not_register_click_here">Sign in</string>
+    <string name="sendBtn">Send</string>
+</resources>

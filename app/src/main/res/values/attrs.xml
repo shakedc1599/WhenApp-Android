@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <declare-styleable name="dark_theme">-->
+
+        <attr name="colorPrimary" format="color"/>
+        <attr name="colorPrimaryVariant" format="color"/>
+        <attr name="colorOnPrimary" format="color"/>
+
+
+        <!-- Secondary brand color. -->
+        <attr name="colorSecondary" format="color"/>
+        <attr name="colorSecondaryVariant" format="color"/>
+        <attr name="colorOnSecondary" format="color"/>
+
+        <!-- Error brand color. -->
+        <attr name="colorError" format="color"/>
+        <attr name="colorOnError" format="color"/>
+
+        <!-- Surface brand color. -->
+        <attr name="colorSurface" format="color"/>
+        <attr name="colorOnSurface" format="color"/>
+
+        <!-- Background brand color. -->
+        <attr name="colorBackground" format="color"/>
+        <attr name="colorOnBackground" format="color"/>
+
+<!--    </declare-styleable>-->
+    
+</resources>
